@@ -12,7 +12,7 @@ function volume_sphere() {
 			volume.value = vol
 		}
 		else{
-			volume.textContent = `NaN`
+			volume.value = `NaN`
 		}
 	})
 } 
